@@ -4,8 +4,8 @@ import IntroAnimation from './components/IntroAnimation';
 import ParticleBackground from './components/ParticleBackground';
 import CustomCursor from './components/CustomCursor';
 
-// URL base da API FastAPI (suporta variável de ambiente VITE_API_BASE_URL no Vercel/Produção)
-const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || 'http://localhost:8000';
+// URL base da API FastAPI (em produção no Vercel usa a mesma origem '', em desenvolvimento usa import.meta.env ou localhost)
+const API_BASE_URL = import.meta.env.VITE_API_BASE_URL !== undefined ? import.meta.env.VITE_API_BASE_URL : (import.meta.env.PROD ? '' : 'http://localhost:8000');
 
 /**
  * App.jsx — Ponto de Entrada e Orquestrador Principal
