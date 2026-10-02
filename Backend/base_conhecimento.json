@@ -1,0 +1,96 @@
+{
+  "empresa": "Amorim Tech",
+  "descricao_curta": "Tecnologia e soluções digitais inteligentes.",
+  "descricao": "A Amorim Tech é uma empresa voltada para Tecnologia e Soluções Digitais, com foco em inovação, desenvolvimento de soluções tecnológicas e criação de experiências digitais modernas. Nosso propósito é utilizar a tecnologia para transformar ideias, resolver problemas e criar soluções digitais que gerem valor real para pessoas e empresas.",
+  "topicos": [
+    {
+      "id": "sobre",
+      "titulo": "Sobre a Amorim Tech",
+      "perguntas_chave": [
+        "Quem é a Amorim Tech?",
+        "O que a Amorim Tech faz?",
+        "Me fale sobre a empresa Amorim Tech",
+        "Qual é o propósito e a visão da Amorim Tech?",
+        "Quais são os diferenciais da Amorim Tech?",
+        "Qual o posicionamento da empresa?",
+        "Como a Amorim Tech trabalha?"
+      ],
+      "resposta": "✨ **Bem-vindo à Amorim Tech!**\n\nSomos uma empresa focada em **Tecnologia e Soluções Digitais**, combinando inovação, engenharia de software e design para transformar ideias e necessidades em soluções digitais inteligentes, funcionais e modernas.\n\n🎯 **Nosso Propósito:**\nUtilizar tecnologia para transformar ideias, resolver problemas reais e criar soluções digitais que gerem valor e impacto positivo.\n\n🚀 **Nossas Principais Frentes de Atuação:**\n- 💻 **Aplicações Web & Sistemas Digitais** — Plataformas sob medida, escaláveis e de alta performance\n- 🤖 **Inteligência Artificial & Automação** — Agentes conversacionais, modelos de IA e fluxos automatizados\n- 🎨 **UX/UI & Experiências Digitais** — Interfaces modernas, intuitivas e centradas no usuário\n- 🔌 **Integração de Sistemas & APIs** — Conexão fluida entre serviços, plataformas e ferramentas\n- 💡 **Consultoria em Tecnologia** — Estratégia digital e desenvolvimento de produtos inovadores"
+    },
+    {
+      "id": "servicos_solucoes",
+      "titulo": "Serviços e Soluções Digitais",
+      "perguntas_chave": [
+        "Quais serviços a Amorim Tech oferece?",
+        "Vocês desenvolvem sites e sistemas web?",
+        "Vocês criam soluções com Inteligência Artificial?",
+        "Quais tipos de soluções personalizadas vocês desenvolvem?",
+        "Vocês fazem automação de processos?",
+        "Vocês trabalham com UX/UI e design de produtos digitais?",
+        "A Amorim Tech faz consultoria em tecnologia?",
+        "Vocês desenvolvem aplicativos e plataformas digitais?"
+      ],
+      "resposta": "🛠️ **Soluções Digitais Completas e Personalizadas:**\n\nA Amorim Tech projeta e desenvolve soluções tecnológicas de ponta a ponta:\n\n---\n\n🌐 **Desenvolvimento Web & Plataformas Digitais**\n- Criação de websites modernos, landing pages de alta conversão e portais interativos\n- Desenvolvimento de sistemas web completos, painéis administrativos e dashboards em tempo real\n- Aplicações progressivas (PWA) responsivas e ultrarrápidas\n\n🤖 **Inteligência Artificial & Automação de Processos**\n- Chatbots com IA generativa, processamento de linguagem natural (PLN) e interação por voz\n- Integração de modelos de IA aos fluxos de atendimento e operação\n- Automação de tarefas repetitivas e pipelines de dados\n\n🎨 **Design UX/UI & Experiência do Usuário**\n- Prototipagem, wireframes e design de interfaces focadas em usabilidade e estética moderna\n- Design systems consistentes e acessíveis\n\n🔌 **Integrações & Consultoria em Tecnologia**\n- Conexão entre bancos de dados, APIs de terceiros, CRMs e ERPs\n- Consultoria técnica para planejamento e arquitetura de novos produtos digitais"
+    },
+    {
+      "id": "ia_automacao",
+      "titulo": "Inteligência Artificial e Automação",
+      "perguntas_chave": [
+        "Como a Amorim Tech utiliza Inteligência Artificial?",
+        "Como funcionam os chatbots e assistentes com IA?",
+        "A IA pode ser integrada aos meus sistemas?",
+        "Vocês usam IA Generativa?",
+        "Como a IA garante respostas confiáveis?",
+        "O que é automação de processos?",
+        "É seguro integrar IA no meu negócio?"
+      ],
+      "resposta": "🧠 **Inteligência Artificial Aplicada e Inovação Real**\n\nNa Amorim Tech, utilizamos Inteligência Artificial Generativa e automação inteligente para otimizar operações e aprimorar a experiência dos usuários:\n\n---\n\n🔍 **Como Aplicamos IA em Nossos Projetos:**\n\n1. **💬 Agentes Conversacionais Inteligentes**\n   Desenvolvemos chatbots multicanais (Web, Voz e Mensagens) capazes de compreender contexto, linguagem natural e fornecer respostas dinâmicas.\n\n2. **📚 Respostas Confiáveis e Ancoradas (RAG)**\n   Utilizamos arquiteturas modernas de busca contextual para que a IA consulte diretamente bases de conhecimento específicas, garantindo precisão e evitando informações imprecisas.\n\n3. **⚡ Automação de Fluxos de Trabalho**\n   Conectamos fluxos de dados e gatilhos inteligentes para automatizar processos operacionais, reduzindo tempo e eliminando gargalos.\n\n🔒 **Privacidade & Segurança:**\nTodas as nossas soluções são desenvolvidas seguindo padrões modernos de segurança da informação, criptografia e boas práticas de proteção de dados."
+    },
+    {
+      "id": "desenvolvimento_projetos",
+      "titulo": "Processo de Desenvolvimento e Metodologia",
+      "perguntas_chave": [
+        "Como funciona o desenvolvimento de um projeto?",
+        "Quais tecnologias vocês utilizam no desenvolvimento?",
+        "Vocês trabalham com metodologias ágeis?",
+        "Qual o prazo para desenvolver um projeto?",
+        "Como acompanhar o andamento do meu projeto?",
+        "Vocês fazem manutenção pós-entrega?",
+        "Como solicitar um orçamento ou proposta?"
+      ],
+      "resposta": "🚀 **Metodologia de Desenvolvimento Ágil e Transparente**\n\nNosso processo é estruturado para garantir qualidade técnica, alinhamento constante e entregas consistentes:\n\n---\n\n📋 **Etapas do Nosso Fluxo de Trabalho:**\n\n1. **💡 Descoberta & Diagnóstico** — Entendemos os objetivos, requisitos e desafios da sua necessidade.\n2. **🎨 Arquitetura & UX/UI** — Criamos a estrutura do sistema, fluxos de navegação e design visual.\n3. **💻 Desenvolvimento Ágil** — Construção modular com tecnologias modernas (React, Vite, Node.js, Python, FastAPI, Cloud).\n4. **🧪 Testes & Validação** — Verificação rigorosa de usabilidade, performance e segurança.\n5. **🚀 Implantação & Suporte** — Lançamento da solução com acompanhamento contínuo e evolução.\n\n---\n\n📝 **Orçamentos e Propostas:**\nCada projeto é avaliado de acordo com seu escopo e complexidade técnica para oferecer uma solução sob medida."
+    },
+    {
+      "id": "integracao_tecnologia",
+      "titulo": "Integração de Sistemas e APIs",
+      "perguntas_chave": [
+        "Como a Amorim Tech realiza integrações de sistemas?",
+        "Vocês trabalham com APIs REST e Webhooks?",
+        "É possível conectar a solução a ferramentas que já utilizo?",
+        "Quais plataformas podem ser integradas?",
+        "Como garantir que a integração seja segura?",
+        "Vocês criam APIs personalizadas?"
+      ],
+      "resposta": "🔌 **Integrações Robustas e Arquitetura Conectada**\n\nA Amorim Tech conecta plataformas e ferramentas para que seus sistemas trabalhem em perfeita harmonia:\n\n---\n\n⚙️ **Capacidades de Integração:**\n\n- 🌐 **APIs RESTful & Webhooks** — Desenvolvimento e consumo de APIs padronizadas, seguras e documentadas\n- 🔄 **Sincronização de Dados** — Comunicação em tempo real entre bases de dados, plataformas em nuvem e ferramentas externas\n- 📱 **Mensageria e Canais Digitais** — Integração de interfaces conversacionais com serviços de mensagens e plataformas web\n- 🛡️ **Segurança e Autenticação** — Protocolos modernos de autenticação (JWT, OAuth2, API Keys) e tráfego criptografado\n\nSe você precisa integrar uma ferramenta específica ou criar uma API sob medida, nossa equipe analisa e implementa a melhor arquitetura técnica."
+    },
+    {
+      "id": "contato_informacoes",
+      "titulo": "Contato e Informações Gerais",
+      "perguntas_chave": [
+        "Como entrar em contato com a Amorim Tech?",
+        "Onde posso saber mais sobre a Amorim Tech?",
+        "Quais os canais de atendimento?",
+        "Como iniciar uma parceria ou projeto?",
+        "Qual o endereço ou telefone da empresa?",
+        "Qual o CNPJ da Amorim Tech?"
+      ],
+      "resposta": "💬 **Conecte-se com a Amorim Tech**\n\nEstamos à disposição para conversar sobre novos projetos, parcerias e soluções tecnológicas inovadoras.\n\n---\n\n📌 **Como Falar Conosco:**\n- 💬 **Assistente Virtual Interativo** — Você pode utilizar este canal para tirar dúvidas e conhecer nossas soluções.\n- 🤝 **Novos Projetos & Consultoria** — Envie uma mensagem com a descrição da sua ideia para alinharmos os próximos passos.\n\nℹ️ *Nota sobre informações cadastrais:* Informações específicas como endereço físico, telefone direto ou CNPJ não constam no momento nesta base de conhecimento pública."
+    }
+  ],
+  "faq_rapido": [
+    "O que a Amorim Tech faz?",
+    "Quais serviços e soluções digitais são oferecidos?",
+    "Como funcionam as soluções de Inteligência Artificial?",
+    "Como iniciar um projeto de tecnologia com a Amorim Tech?"
+  ]
+}
